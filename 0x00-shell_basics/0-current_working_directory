@@ -1,5 +1,2 @@
 #!/bin/bash
-
-# My first script
-
-echo -e "/root/alx-system_engineering-devops/\n0x00-shell_basics\n" 
+echo -e "/root/alx-system_engineering-devops/0x00-shell_basics\n" 
