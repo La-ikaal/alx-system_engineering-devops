@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "mkdir\n/tmp/my_first_directory\n"
+echo -e "mkdir\n/tmp/my_first_directory:directory\n"
