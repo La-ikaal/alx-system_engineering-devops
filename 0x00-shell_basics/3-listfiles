@@ -1,3 +1,2 @@
 #!/bin/bash
 echo -e "total 20 -rwxr--r-x 1 root root  79 Feb  8 11:02 0-current_working_directory -rwxr--r-x 1 root root  73 Feb  8 11:28 1-listit\n-rwxr--r-x 1 root root  30 Feb  8 12:36 2-bring_me_home -rwxr--r-x 1 root root 30 Feb 8 12:48 3-listfiles\n"  
-
