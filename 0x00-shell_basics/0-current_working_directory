@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "/tmp/correction/6754994725881984974768512621918607115292_5/205/267843/0x00-shell_basics\n" 
+echo -e "/root/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory\n" 
