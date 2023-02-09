@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "total 24\ndrwxr-xr-x 2 0 0 167 Feb  8 14:33 .\ndrwxr-xr-x 4 0 0  60 Feb  8 07:15 ..\n-rwxr--r-x 1 0 0  79 Feb  8 11:02 0-current_working_directory\n-rwxr--r-x 1 0 0  73 Feb  8 11:28 1-listit\n-rwxr--r-x 1 0 0  30 Feb  8 12:36 2-bring_me_home\n-rwxr--r-x 1 0 0 313 Feb  8 13:41 3-listfiles\n-rwxr--r-x 1 0 0 456 Feb  8 14:07 4-listmorefiles\n-rwxr--r-x 1 0 0   0 Feb  8 14:33 5-listfilesdigitonly\n-rwxr--r-x 1 0 0 313 Feb  8 14:03 README.md\n"                                                                                                                           
+echo "ls -lna\n"
